@@ -1,2 +1,2 @@
 # PipocaTV
-Descubra os melhores filmes e séries em um só lugar! Atualizações diárias, lançamentos imperdíveis e uma experiência feita para quem ama maratonar
+**PipocaTV** é a plataforma ideal para quem ama assistir filmes e séries de forma fácil e prática. Com uma vasta biblioteca de conteúdos, desde os maiores lançamentos até clássicos, oferecemos uma experiência de streaming rápida e sem interrupções. Nosso objetivo é criar um espaço onde os usuários possam desfrutar de seus filmes e séries preferidos a qualquer hora e em qualquer lugar, com recomendações personalizadas e atualizações constantes. A plataforma foi criada com o propósito de proporcionar entretenimento de qualidade, sem complicação, para todos os amantes da sétima arte.
